@@ -89,3 +89,5 @@ fastlane/test_output
 
 iOSInjectionProject/
 /Step Tracker
+Step Tracker/.DS_Store
+.DS_Store
